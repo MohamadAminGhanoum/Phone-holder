@@ -11,3 +11,7 @@ For info, this how the ikea one looks:
 
 <img width="439" height="343" alt="Screenshot 2026-10-03 at 00 37 43" src="https://github.com/user-attachments/assets/56b5e33d-ced4-4528-8938-a9576520fc3e" />
 <img width="454" height="361" alt="Screenshot 2026-10-03 at 00 46 26" src="https://github.com/user-attachments/assets/3ee39fc9-d411-4ca3-babc-66196a8fe4cf" />
+
+| Item # | Component / Service | Vendor | Estimated Price (USD) | Notes |
+| :--- | :--- | :--- | :---: | :--- |
+| 1 | Printing  | Printing Legion | $20.00 | Not sure about the exact price from printing legion, but will ask to find out. |
